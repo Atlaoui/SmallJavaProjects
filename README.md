@@ -1,1 +1,3 @@
-# 3I002
+# SmallJavaProjects
+
+several small projects  to learn java programming language
